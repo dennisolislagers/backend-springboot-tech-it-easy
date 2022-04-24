@@ -1,13 +1,13 @@
-package nl.novi.backendsprinboottechiteasy;
+package nl.novi.backendspringboottechiteasy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BackendSprinbootTechItEasyApplication {
+public class BackendSpringbootTechItEasyApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BackendSprinbootTechItEasyApplication.class, args);
+        SpringApplication.run(BackendSpringbootTechItEasyApplication.class, args);
     }
 
 }

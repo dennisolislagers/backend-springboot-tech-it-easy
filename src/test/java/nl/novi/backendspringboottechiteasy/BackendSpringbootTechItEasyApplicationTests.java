@@ -1,10 +1,10 @@
-package nl.novi.backendsprinboottechiteasy;
+package nl.novi.backendspringboottechiteasy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendSprinbootTechItEasyApplicationTests {
+class BackendSpringbootTechItEasyApplicationTests {
 
     @Test
     void contextLoads() {
